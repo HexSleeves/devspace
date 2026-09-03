@@ -12,7 +12,7 @@ require (
 	filippo.io/age v1.3.1
 	github.com/charmbracelet/colorprofile v0.4.3
 	github.com/fsnotify/fsnotify v1.10.1
-	github.com/gofrs/flock v0.13.0
+	github.com/gofrs/flock v0.13.1
 	github.com/hanwen/go-fuse/v2 v2.10.1
 	github.com/spf13/cobra v1.10.2
 	golang.org/x/term v0.45.0
